@@ -1,0 +1,33 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": "https://github.com/cygnatus/old-twitch-chat",
+		"originalMd5": null,
+		"installDate": 1569514877209,
+		"sourceCode": "/* ==UserStyle==\n@name           Old Twitch chat\n@namespace      github.com/cygnatus/old-twitch-chat\n@version        1.0.0\n@description    Restores the CSS of Twitch chat to what it was before Sep 26 2019\n@author         Cygnatus (https://cygnatus.com)\n@homepageURL    https://github.com/cygnatus/old-twitch-chat\n==/UserStyle== */\n\n@-moz-document domain(\"twitch.tv\") {\n    .chat-list {\n        font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n        font-size: 12px;\n        line-height: 20px;\n        font-weight: 400;\n        color: #dad8de;\n        background-color: #0f0e11;\n    }\n    \n    .chat-input {\n        background-color: #0f0e11;\n    }\n}",
+		"sections": [
+			{
+				"code": ".chat-list {\n        font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n        font-size: 12px;\n        line-height: 20px;\n        font-weight: 400;\n        color: #dad8de;\n        background-color: #0f0e11;\n    }\n    \n    .chat-input {\n        background-color: #0f0e11;\n    }",
+				"start": 38,
+				"domains": [
+					"twitch.tv"
+				]
+			}
+		],
+		"usercssData": {
+			"name": "Old Twitch chat",
+			"namespace": "github.com/cygnatus/old-twitch-chat",
+			"version": "1.0.0",
+			"description": "Restores the CSS of Twitch chat to what it was before Sep 26 2019",
+			"author": "Cygnatus (https://cygnatus.com)",
+			"homepageURL": "https://github.com/cygnatus/old-twitch-chat"
+		},
+		"author": "Cygnatus (https://cygnatus.com)",
+		"description": "Restores the CSS of Twitch chat to what it was before Sep 26 2019",
+		"name": "Old Twitch chat",
+		"updateDate": 1569521226376,
+		"id": 1
+	}
+]

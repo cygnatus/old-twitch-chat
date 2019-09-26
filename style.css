@@ -1,0 +1,12 @@
+.chat-list {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #dad8de;
+    background-color: #0f0e11;
+}
+
+.chat-input {
+    background-color: #0f0e11;
+}
