@@ -16,7 +16,8 @@ CSS
 The original CSS isn’t that difficult as far as I can surmise:
 
 ```css
-.chat-list {
+.chat-list,
+.video-chat__message-list-wrapper {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 20px;
