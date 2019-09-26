@@ -47,8 +47,11 @@ Thanks
 ------
 Throw a follow on [Twitch][] or [Twitter][] or something.
 
+You can also retweet [the announcement tweet][t].
+
 
 [rebranding]: https://blog.twitch.tv/en/2019/09/26/nice-to-meet-you-again-for-the-first-time/
 [stylus]: https://add0n.com/stylus.html
 [twitch]: https://twitch.tv/cygnatus
 [twitter]: https://twitter.com/cygnatus
+[t]: https://twitter.com/cygnatus/status/1177267280637509648
