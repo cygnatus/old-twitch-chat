@@ -54,4 +54,4 @@ You can also retweet [the announcement tweet][t].
 [stylus]: https://add0n.com/stylus.html
 [twitch]: https://twitch.tv/cygnatus
 [twitter]: https://twitter.com/cygnatus
-[t]: https://twitter.com/cygnatus/status/1177267280637509648
+[t]: https://twitter.com/cygnatus/status/1177300220503351296
