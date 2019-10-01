@@ -36,12 +36,13 @@ Installation
 ------------
 Otherwise, to use my userstyle, the easiest thing for you to do is to download the browser extension [Stylus][] and import my script, like so:
 
-1. Download `stylus.json` from this project to your computer using the below link
+1. Install the [Stylus][] browser extension
+2. Download `stylus.json` from this project to your computer using the below link
     - <https://raw.githubusercontent.com/cygnatus/old-twitch-chat/master/stylus.json>
-2. Open Stylus
-3. Click **Manage**
-4. Hit **Import** on the bottom left, then **Import Styles**
-5. Open `stylus.json`; this might overwrite existing Stylus settings
+3. Open Stylus
+4. Click **Manage**
+5. Hit **Import** on the bottom left, then **Import Styles**
+6. Open `stylus.json`; this might overwrite existing Stylus settings
 
 And that’s it; Stylus has a nice button for turning off a custom style so you can see what it looks with the settings on and off.
 
